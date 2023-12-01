@@ -10,3 +10,4 @@ a side income means can have more than one job at one time
 9) oops: oops is concept stands for object oriented programming in which 4 piiler it consist, abstraction,class and object,polymorphism,inheritance,
 10) Call By value and Call By Reference: method of passing value: call by value means pasing actual value whereas in reference passing value using location of 
 Abstraction: Hiding unneccsary information and showing informative information to the user
+11) Encapusulation: Wrapping data and function in a single unit 
