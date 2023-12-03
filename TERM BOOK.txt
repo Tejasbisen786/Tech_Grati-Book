@@ -13,3 +13,4 @@ Abstraction: Hiding unneccsary information and showing informative information t
 11) Encapusulation: Wrapping data and function in a single unit 
 12) Method Overloading: same name but different parameter 
   Method Overridiing: same name and same parameter
+13) inheritance: main pilor of oops where inherit the props from parents to child
