@@ -16,3 +16,4 @@ a side income means can have more than one job at one time
 14) inheritance: main pilor of oops where inherit the props from parents to child
 15) ACID Properties: Atomicity, Consistency , Isolation , Durability  these are properties relates to Database
 16) DML AND DCL Command: Data Manupulation Language and which deals with structure of database where as Data manupulation language which deals with instance data which present in database.
+17) DCl and TCL : releted to the databse and deals with the transection that happened in database and as well as permission , access control of database.
