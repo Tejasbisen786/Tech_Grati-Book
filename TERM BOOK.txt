@@ -22,3 +22,4 @@ a side income means can have more than one job at one time
 20) Mongoose basically help to write the data model and strcute of application that how it behaved in backend 
 21) express js node js used in backend developmement 
 22) There is slight diffrence betweenn dependicies and dev dependencies when you work with the backend project
+23) CORS: Cors Stand for cross origin resources sharing it restrcted the unwanted resources
