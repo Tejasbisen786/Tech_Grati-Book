@@ -23,3 +23,4 @@ a side income means can have more than one job at one time
 21) express js node js used in backend developmement 
 22) There is slight diffrence betweenn dependicies and dev dependencies when you work with the backend project
 23) CORS: Cors Stand for cross origin resources sharing it restrcted the unwanted resources
+24) Javascript program run inside the call stack and global execution context evaluted for the line of code which written in javascript
