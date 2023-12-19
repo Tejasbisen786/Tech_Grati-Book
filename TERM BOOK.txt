@@ -26,3 +26,10 @@ a side income means can have more than one job at one time
 24) Javascript program run inside the call stack and global execution context evaluted for the line of code which written in javascript
 25)  Cloudnary is basically service which is highly used in most comapnies to store the file data on over here it is third part services which handle the files image and etc 
 26) multer is also used to handle the on server
+
+27) HTTP response status codes indicate whether a specific HTTP request has been successfully completed. Responses are grouped in five classes:
+Informational responses (100 – 199)
+Successful responses (200 – 299)
+Redirection messages (300 – 399)
+Client error responses (400 – 499)
+Server error responses (500 – 599)
