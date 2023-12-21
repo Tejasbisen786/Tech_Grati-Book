@@ -35,3 +35,4 @@ Client error responses (400 – 499)
 Server error responses (500 – 599)
 
 28) status code is help to identified the messgae status whether hAVING eror or not 
+29) The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
