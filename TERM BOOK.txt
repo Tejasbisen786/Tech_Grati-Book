@@ -82,3 +82,14 @@ C struct Examples
 C Programming Files
 C Files Input/Output
 C Files Examples
+
+31) Javascriot Methods:
+String length String slice() String substring() String substr() String replace() String replaceAll() StringtoUpperCase()
+String toLowerCase() String concat() String trim()
+String trimStart()
+String trimEnd()
+String padStart()
+String padEnd()
+String charAt()
+String charCodeAt()
+String split()
